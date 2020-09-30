@@ -3,12 +3,17 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
-![Lines of code](https://img.shields.io/tokei/lines/github/elba3184/Portfolio-Site) [Portfolio-Site](https://elbachimilio.com/)
+![Lines of code](https://img.shields.io/tokei/lines/github/elba3184/Portfolio-Site) [Portfolio-Site](https://elbachimilio.com/)\
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on my portofilio, FightPandemics, and side projects.
+- 🌱 I’m currently learning AWS Services, Serverless Framework, Firebase
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/elbachimilio/) or email: emchimilio@gmail.com
+- ⚡ Fun fact: I'm good at memorizing commericals
+-->
 
 **Languages and Tools:**  
 <p align="center">
@@ -27,11 +32,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="45" height="45" /></code>
 </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portofilio, FightPandemics, and side projects.
-- 🌱 I’m currently learning AWS Services, Serverless Framework, Firebase
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/elbachimilio/) or email: emchimilio@gmail.com
-- ⚡ Fun fact: I'm good at memorizing commericals
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
