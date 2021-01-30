@@ -8,12 +8,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portofilio, FightPandemics, and side projects.
-- 🌱 I’m currently learning AWS Services, Serverless Framework, Firebase
+- 🔭 Outside of work, I’m currently working on LunchMemo, my portofilio, and other side projects.
+- 🌱 I’m currently learning TypeScript, GraphQL, and Firebase
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/elbachimilio/) or email: emchimilio@gmail.com
-- ⚡ Fun fact: I'm good at memorizing commericals
--->
 
 **Languages and Tools:**  
 <p align="center">
