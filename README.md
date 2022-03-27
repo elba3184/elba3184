@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Outside of work, I’m currently working on LunchMemo, my portofilio, and other side projects.
+- 🔭 Outside of work, I’m currently working on small side projects.
 - 🌱 I’m currently learning TypeScript, GraphQL, and Firebase
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/elbachimilio/) or email: emchimilio@gmail.com
